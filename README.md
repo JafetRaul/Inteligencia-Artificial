@@ -21,7 +21,7 @@ Docente: Maguiña Perez, Rolando Alberto.
 | [Lisp](https://es.wikipedia.org/wiki/Lisp)|
 | [Jupyter](https://jupyter.org/) |
 
-> *Nota: Existen múltiples maneras de instalar Lisp en los diversos SO. Además, puedes instalar el kernerl de Lisp en JupyterLab y JupyterNotebook, eso ya lo dejo en tus manos :blush: .*
+> *Nota: Existen múltiples maneras de instalar Lisp en los diversos SO. Además, puedes instalar el kernerl de Lisp en JupyterLab o JupyterNotebook, eso ya lo dejo en tus manos :blush: .*
 
 ## Bibliografía recomendada:
 | Título | Autor | Edición | Año de publicación |
