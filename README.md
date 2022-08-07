@@ -244,13 +244,13 @@ Docente: Maguiña Perez, Rolando Alberto.
   <tr>
     <td rowspan="11"> Unidad IV: <br>Machine Learning</td>
     <td>13</td>
-    <td>Machine Learning y Redes Neuronales Artificiales</td>
+    <td><a href='https://github.com/JafetR1998/Inteligencia-Artificial/blob/main/13_Semana/Aprendizaje_ML_IA_2022-1.pdf'>Machine Learning y Redes Neuronales Artificiales</a></td>
     <td>Introducción al ML y a las RNA</td>
     <td>Teoría</td>
   </tr>
   <tr>
     <td></td>
-    <td>Práctica Calificada 2</td>
+    <td><a href='https://github.com/JafetR1998/Inteligencia-Artificial/tree/main/13_Semana/02_PC'>Práctica Calificada 2</a></td>
     <td>Caso Aplicativo de SID con Python</td>
     <td>Código</td>
   </tr>
