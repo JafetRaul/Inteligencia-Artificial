@@ -108,7 +108,7 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Código</td>
   </tr>
   <tr>
-    <td rowspan="11"> Unidad II: <br>Búsqueda y Teoría de Juegos</td>
+    <td rowspan="12"> Unidad II: <br>Búsqueda y Teoría de Juegos</td>
     <td>04</td>
     <td>Métodos de Búsqueda a Ciegas (No informada)</td>
     <td>MBAC y BEE</td>
@@ -137,6 +137,12 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Juegos Inteligentes: Humano - Máquina</td>
     <td>Teoría de Juegos y Estrategias</td>
     <td>Teoría</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Juegos de movimientos simultáneos de dos jugadores</td>
+    <td>Algoritmos para estrategias informáticas</td>
+    <td>Artículo científico</td>
   </tr>
   <tr>
     <td></td>
