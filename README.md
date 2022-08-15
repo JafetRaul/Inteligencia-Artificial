@@ -260,5 +260,17 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Caso Aplicativo de SID con Python</td>
     <td>Código</td>
   </tr>
+  <tr>
+    <td><14/td>
+    <td>Perceptrón y Funciones de Activación</td>
+    <td>Introducción a la Redes Neuronales Artificiales</td>
+    <td>Teoría</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Laboratorio 9</td>
+    <td>Implementación del Perceptrón en Python/td>
+    <td>Código</td>
+  </tr>
 </tbody>
 </table>
