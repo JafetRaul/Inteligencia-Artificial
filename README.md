@@ -47,7 +47,7 @@ Docente: Maguiña Perez, Rolando Alberto.
 </thead>
 <tbody>
   <tr>
-    <td rowspan="10"> Unidad I: <br> Introducción a la IA y Espacio de Estados (EE)</td>
+    <td rowspan="10"> Unidad I: <br> Inteligencia Artificial y Espacio de Estados (EE)</td>
     <td>01</td>
     <td>Introducción a la Inteligencia Artificial</td>
     <td>Fundamentos de IA</td>
@@ -248,7 +248,7 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Código</td>
   </tr>
   <tr>
-    <td rowspan="11"> Unidad IV: <br>Machine Learning</td>
+    <td rowspan="11"> Unidad IV: <br>Introducción al Machine Learning</td>
     <td>13</td>
     <td><a href='https://github.com/JafetR1998/Inteligencia-Artificial/blob/main/13_Semana/Aprendizaje_ML_IA_2022-1.pdf'>Machine Learning y Redes Neuronales Artificiales</a></td>
     <td>Introducción al ML y a las RNA</td>
