@@ -261,7 +261,7 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Código</td>
   </tr>
   <tr>
-    <td><14/td>
+    <td>14</td>
     <td>Perceptrón y Funciones de Activación</td>
     <td>Introducción a la Redes Neuronales Artificiales</td>
     <td>Teoría</td>
@@ -269,7 +269,7 @@ Docente: Maguiña Perez, Rolando Alberto.
   <tr>
     <td></td>
     <td>Laboratorio 9</td>
-    <td>Implementación del Perceptrón en Python/td>
+    <td>Implementación del Perceptrón en Python</td>
     <td>Código</td>
   </tr>
 </tbody>
