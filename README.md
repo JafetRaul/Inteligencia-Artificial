@@ -47,7 +47,7 @@ Docente: Maguiña Perez, Rolando Alberto.
 </thead>
 <tbody>
   <tr>
-    <td rowspan="10"> Unidad I: <br> Introducción a la IA</td>
+    <td rowspan="10"> Unidad I: <br> Introducción a la IA y Espacio de Estados (EE)</td>
     <td>01</td>
     <td>Introducción a la Inteligencia Artificial</td>
     <td>Fundamentos de IA</td>
@@ -108,7 +108,7 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Código</td>
   </tr>
   <tr>
-    <td rowspan="12"> Unidad II: <br>Búsqueda y Teoría de Juegos</td>
+    <td rowspan="12"> Unidad II: <br>Búsqueda (BEE) y Teoría de Juegos</td>
     <td>04</td>
     <td>Métodos de Búsqueda a Ciegas (No informada)</td>
     <td>MBAC y BEE</td>
