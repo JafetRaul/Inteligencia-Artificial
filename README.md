@@ -275,12 +275,12 @@ Docente: Maguiña Perez, Rolando Alberto.
   <tr>
     <td>15</td>
     <td>Técnicas de Machine Learning</td>
-    <td>Técnicas de Claificación y Regresión</td>
+    <td>Técnicas de Clasificación y Regresión</td>
     <td>Teoría</td>
   </tr>
   <tr>
     <td></td>
-    <td>Verificación y Valifación de Sistemas Inteligentes</td>
+    <td>Verificación y Validación de Sistemas Inteligentes</td>
     <td>V&V y Métricas de Evaluación</td>
     <td>Teoría</td>
   </tr>
