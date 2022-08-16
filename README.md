@@ -272,5 +272,23 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Implementación del Perceptrón en Python</td>
     <td>Código</td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td>Técnicas de Machine Learning</td>
+    <td>Técnicas de Claificación y Regresión</td>
+    <td>Teoría</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Verificación y Valifación de Sistemas Inteligentes</td>
+    <td>V&V y Métricas de Evaluación</td>
+    <td>Teoría</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Laboratorio 10</td>
+    <td>Implementación de las técnicas de ML en Python</td>
+    <td>Código</td>
+  </tr>
 </tbody>
 </table>
