@@ -296,5 +296,11 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Implementación de las técnicas de ML en Python</td>
     <td>Código</td>
   </tr>
+    <tr>
+    <td>16</td>
+    <td>Examen Final</td>
+    <td>Todo lo aprendido hasta semana 15</td>
+    <td>Teoría y Práctica</td>
+  </tr>
 </tbody>
 </table>
