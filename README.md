@@ -281,8 +281,14 @@ Docente: Maguiña Perez, Rolando Alberto.
   <tr>
     <td></td>
     <td>Verificación y Validación de Sistemas Inteligentes</td>
-    <td>V&V y Métricas de Evaluación</td>
+    <td>Metodologías para SBC, V&V y Métricas de Evaluación</td>
     <td>Teoría</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Ejercicios de Validación de SI</td>
+    <td>Validación de Sistemas Inteligentes</td>
+    <td>Ejercicios</td>
   </tr>
   <tr>
     <td></td>
