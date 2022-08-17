@@ -286,7 +286,7 @@ Docente: Maguiña Perez, Rolando Alberto.
   </tr>
   <tr>
     <td></td>
-    <td>Ejercicios de Validación de SI</td>
+    <td>Ejercicios de Validación de Sistemas Inteligentes</td>
     <td>Validación de Sistemas Inteligentes</td>
     <td>Ejercicios</td>
   </tr>
