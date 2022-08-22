@@ -12,7 +12,7 @@ Docente: Maguiña Perez, Rolando Alberto.
 | Cronograma del ciclo académico    | Cronograma con el detalle fecha a fecha de los temas, ejercicios y codigos realizados en clase.|
 | Duración del ciclo académico      | El curso esta dividido en 16 semanas.|
 | Lenguajes de Programación utilizados | Python 3.x y LISP.|
-| Conocimientos Previos | Algoritmia - Investigación Operativa - Matemática Discreta|
+| Conocimientos Previos | Algoritmia - Investigación Operativa - Matemática Discreta - Cálculo - Estadistica - Probabilidades|
 
 ## Links relevantes:
 | Lenguajes de programación y IDE |
