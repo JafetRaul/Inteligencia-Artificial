@@ -248,7 +248,7 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Código</td>
   </tr>
   <tr>
-    <td rowspan="11"> Unidad IV: <br>Introducción al Machine Learning</td>
+    <td rowspan="13"> Unidad IV: <br>Introducción al Machine Learning</td>
     <td>13</td>
     <td><a href='https://github.com/JafetR1998/Inteligencia-Artificial/blob/main/13_Semana/Aprendizaje_ML_IA_2022-1.pdf'>Machine Learning y Redes Neuronales Artificiales</a></td>
     <td>Introducción al ML y a las RNA</td>
@@ -265,6 +265,18 @@ Docente: Maguiña Perez, Rolando Alberto.
     <td>Perceptrón y Funciones de Activación</td>
     <td>Introducción a la Redes Neuronales Artificiales</td>
     <td>Teoría</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Algoritmos del Perceptrón Unicapa</td>
+    <td>Algoritmo de Aprendizaje y Recuerdo</td>
+    <td>Teoría</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Ejercicios de Perceptrón Unicapa</td>
+    <td>Perceptrón Unicapa</td>
+    <td>Ejercicios</td>
   </tr>
   <tr>
     <td></td>
