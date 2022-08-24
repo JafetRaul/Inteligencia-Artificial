@@ -1,0 +1,21 @@
+Implementar el entorno virtual
+==============================
+
+Autor: Ms. Sc. Rolando A. Maguiña Pérez
+FISI-UNMSM
+
+- Procedimiento de implementación del entorno
+  
+  0. Instalar la distribución Anaconda
+  1. Lanzar una terminal Anaconda.
+  2. Crear un entorno virtual con:
+     (base) PS C:\Users\rolan> conda create --name nombre-de-entorno python=3.9.1
+     y activarlo con:
+     (base) PS C:\Users\rolan> conda activate nombre-de-entorno
+  3. Instalar el Jupyter Notebook con:
+     (nombre-de-entorno) PS C:\Users\rolan> pip install jupyter
+  4. Crear una carpeta de trabajo según procedimiento rutinario, enseguida acceder a la misma.
+     (nombre-de-entorno) PS C:\Users\rolan>cd C:\Users\rolan\Desktop\S2
+     Nota: en este caso la carpeta creada se denomina 'S2'.
+  5. Lanzar el Jupyter Notebook desde la carpeta recientemente creada
+     (nombre-de-entorno) PS C:\Users\rolan> jupyter notebook
