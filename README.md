@@ -1,5 +1,5 @@
 # *IA EAPIS.UNMSM: Inteligencia Artificial*
-Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Inteligencia Artificial utilizados en el curso *Inteligencia Artificial* de la facultad Ingenieria de Sistemas UNMSM. 
+Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Inteligencia Artificial utilizados en el curso *Inteligencia Artificial* de la Facultad de Ingenieria de Sistemas UNMSM. 
 
 Docente: Maguiña Perez, Rolando Alberto.
 
