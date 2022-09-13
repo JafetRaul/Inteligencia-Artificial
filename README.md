@@ -55,37 +55,37 @@ Docente: Maguiña Perez, Rolando Alberto.
   </tr>
   <tr>
     <td></td>
-    <td>Notebook: Repaso de Colecciones - Python</td>
+    <td><a href='https://github.com/JafetRaul/Inteligencia-Artificial/tree/main/01_Semana/00_Repaso_Python'>Notebook: Repaso de Colecciones - Python</a></td>
     <td>Colecciones</td>
     <td>Repaso y Ejercicios</td>
   </tr>
   <tr>
     <td></td>
-    <td>Lectura 1: Agentes Inteligentes</td>
+    <td><a href='https://github.com/JafetRaul/Inteligencia-Artificial/blob/main/01_Semana/Cap2_Agentes_Inteligentes_libro_Russell-Norvig.pdf'>Lectura 1: Agentes Inteligentes</a></td>
     <td>Fundamentos de AI</td>
     <td>Lectura</td>
   </tr>
   <tr>
     <td></td>
-    <td>Laboratorio 1</td>
+    <td><a href='https://github.com/JafetRaul/Inteligencia-Artificial/tree/main/01_Semana/01_Laboratorio'>Laboratorio 1</a></td>
     <td>Repaso de Colecciones</td>
     <td>Código</td>
   </tr>
   <tr>
     <td>02</td>
-    <td>Agentes Inteligentes</td>
+    <td><a href='https://github.com/JafetRaul/Inteligencia-Artificial/blob/main/02_Semana/IA_AgentesInteligentes_AplicsIA_BEE_2022-1.pdf'>Agentes Inteligentes</a></td>
     <td>Fundamentos de los AI</td>
     <td>Teoría</td>
   </tr>
   <tr>
     <td></td>
-    <td>Instrucciones para entornos virtuales</td>
+    <td><a href='https://github.com/JafetRaul/Inteligencia-Artificial/blob/main/02_Semana/Instrucciones_Entorno_Virtual.txt'>Instrucciones para entornos virtuales</a></td>
     <td>Entornos Virtuales en Python</td>
     <td>Teoría</td>
   </tr>
   <tr>
     <td></td>
-    <td>Laboratorio 2</td>
+    <td><a href=''>Laboratorio 2</a></td>
     <td>Librería Numpy</td>
     <td>Código</td>
   </tr>
