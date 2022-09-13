@@ -316,3 +316,5 @@ Docente: Maguiña Perez, Rolando Alberto.
   </tr>
 </tbody>
 </table>
+
+![TEMAS_IA](https://github.com/JafetRaul/Inteligencia-Artificial/blob/main/imagenes/FIA.png)
