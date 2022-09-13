@@ -49,7 +49,7 @@ Docente: Maguiña Perez, Rolando Alberto.
   <tr>
     <td rowspan="10"> Unidad I: <br> Inteligencia Artificial y Espacio de Estados (EE)</td>
     <td>01</td>
-    <td>Introducción a la Inteligencia Artificial</td>
+    <td><a href='https://github.com/JafetRaul/Inteligencia-Artificial/blob/main/01_Semana/IA_IntroIA_2022-1.pdf'>Introducción a la Inteligencia Artificial</a></td>
     <td>Fundamentos de IA</td>
     <td>Teoría</td>
   </tr>
